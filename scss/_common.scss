@@ -327,7 +327,7 @@ br {
 
 @supports (--css: variables) {
     .mil-text-gradient-3 {
-        background: linear-gradient(to right, rgba(13, 81, 82, 1), 50%, rgba(13, 81, 82, 0.8));
+        background: linear-gradient(to right,#4f8c4f, 50%,#336933);
         color: transparent;
         background-clip: text;
     }
