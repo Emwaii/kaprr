@@ -1,0 +1,352 @@
+[
+    {
+        "no": "1",
+        "nama_perusahaan": "PT Wisata Hudaya Safari",
+        "sektor": "Biro Perjalanan"
+    },
+    {
+        "no": "2",
+        "nama_perusahaan": "PT Safa Insan Armani",
+        "sektor": "Biro Perjalanan"
+    },
+    {
+        "no": "3",
+        "nama_perusahaan": "PT Tanjungpinang Makmur Bersama",
+        "sektor": "Pemerintahan"
+    },
+    {
+        "no": "4",
+        "nama_perusahaan": "PUDAM Tirta Lingga Kabupaten Lingga",
+        "sektor": "Pemerintahan"
+    },
+    {
+        "no": "5",
+        "nama_perusahaan": "Poltekes Kementerian Kesehatan Jakarta III",
+        "sektor": "Pemerintahan"
+    },
+    {
+        "no": "6",
+        "nama_perusahaan": "Dana Pensiun Syariah Bank Banten",
+        "sektor": "Dana Pensiun"
+    },
+    {
+        "no": "7",
+        "nama_perusahaan": "Artha Graha",
+        "sektor": "Group Usaha"
+    },
+    {
+        "no": "8",
+        "nama_perusahaan": "Bussiness Indonesia Group",
+        "sektor": "Group Usaha"
+    },
+    {
+        "no": "9",
+        "nama_perusahaan": "PT Asia International Insurance Brokers",
+        "sektor": "Industri Keuangan Non Bank"
+    },
+    {
+        "no": "10",
+        "nama_perusahaan": "PT Mega Jasa Reinsurance Broker",
+        "sektor": "Industri Keuangan Non Bank"
+    },
+    {
+        "no": "11",
+        "nama_perusahaan": "Provinsi Banten",
+        "sektor": "Audit Dana Kampanye"
+    },
+    {
+        "no": "12",
+        "nama_perusahaan": "PT Akasanet Bumi Nusantara",
+        "sektor": "Informasi & Teknologi"
+    },
+    {
+        "no": "13",
+        "nama_perusahaan": "PT Marga Graha Penta",
+        "sektor": "Informasi & Teknologi"
+    },
+    {
+        "no": "14",
+        "nama_perusahaan": "BESA INGENIEURSBUREAU B.V.",
+        "sektor": "Jasa"
+    },
+    {
+        "no": "15",
+        "nama_perusahaan": "PT Ketira Engineering Consultants",
+        "sektor": "Jasa"
+    },
+    {
+        "no": "16",
+        "nama_perusahaan": "PT Visi Perkasa Media",
+        "sektor": "Jasa"
+    },
+    {
+        "no": "17",
+        "nama_perusahaan": "PT Sison Tandaning Mandiri",
+        "sektor": "Jasa"
+    },
+    {
+        "no": "18",
+        "nama_perusahaan": "PT Fata Perdana Mandiri",
+        "sektor": "Jasa"
+    },
+    {
+        "no": "19",
+        "nama_perusahaan": "PT Indonesia Teknologi Boru",
+        "sektor": "Jasa"
+    },
+    {
+        "no": "20",
+        "nama_perusahaan": "PT Graha Eka Sakti",
+        "sektor": "Jasa"
+    },
+    {
+        "no": "21",
+        "nama_perusahaan": "PT Lembaga Sertifikasi Profesi Telekomunikasi",
+        "sektor": "Jasa"
+    },
+    {
+        "no": "22",
+        "nama_perusahaan": "PT Aruna Dharma Satya",
+        "sektor": "Jasa"
+    },
+    {
+        "no": "23",
+        "nama_perusahaan": "PT Sky Pacific Indonesia",
+        "sektor": "Jasa"
+    },
+    {
+        "no": "24",
+        "nama_perusahaan": "PT Delta Surya Persada ",
+        "sektor": "Jasa"
+    },
+    {
+        "no": "25",
+        "nama_perusahaan": "PT Manokwari Mandiri Lestari",
+        "sektor": "Mineral, Energi & Pertambangan"
+    },
+    {
+        "no": "26",
+        "nama_perusahaan": "PT Kusuma Energi Mentar",
+        "sektor": "Mineral, Energi & Pertambangan"
+    },
+    {
+        "no": "27",
+        "nama_perusahaan": "PT Darma Karya Group",
+        "sektor": "Perdagangan "
+    },
+    {
+        "no": "28",
+        "nama_perusahaan": "PT Bakti Energi Sejahtera",
+        "sektor": "Perdagangan "
+    },
+    {
+        "no": "29",
+        "nama_perusahaan": "PT Dinamika Energy Indonesia",
+        "sektor": "Perdagangan "
+    },
+    {
+        "no": "30",
+        "nama_perusahaan": "PT Damai Elektrik Indonesia ",
+        "sektor": "Perdagangan "
+    },
+    {
+        "no": "31",
+        "nama_perusahaan": "PT Pakai Listrik Nasional ",
+        "sektor": "Perdagangan "
+    },
+    {
+        "no": "32",
+        "nama_perusahaan": "PT Sarona Cipta Kreasi Cemerlang",
+        "sektor": "Perdagangan "
+    },
+    {
+        "no": "33",
+        "nama_perusahaan": "PT Mitra Bumi Borneo ",
+        "sektor": "Perdagangan "
+    },
+    {
+        "no": "34",
+        "nama_perusahaan": "PT Persada Batavia Diesel ",
+        "sektor": "Perdagangan "
+    },
+    {
+        "no": "35",
+        "nama_perusahaan": "PT Hipbone Indonesia",
+        "sektor": "Perdagangan "
+    },
+    {
+        "no": "36",
+        "nama_perusahaan": "PT Dwi Mitra Adhiusaha",
+        "sektor": "Perdagangan "
+    },
+    {
+        "no": "37",
+        "nama_perusahaan": "PT Pim Prima Medika ",
+        "sektor": "Perdagangan "
+    },
+    {
+        "no": "38",
+        "nama_perusahaan": "PT Ima Meukat Raya ",
+        "sektor": "Perdagangan "
+    },
+    {
+        "no": "39",
+        "nama_perusahaan": "Maleo Private Equity ",
+        "sektor": "Penundaan Kewajiban Pembayaran Utang (PKPU)"
+    },
+    {
+        "no": "40",
+        "nama_perusahaan": "PT Falindo Utama",
+        "sektor": "Manufaktur "
+    },
+    {
+        "no": "41",
+        "nama_perusahaan": "PT Argo Arta Utama",
+        "sektor": "Manufaktur "
+    },
+    {
+        "no": "42",
+        "nama_perusahaan": "PT Anugerah Mina Sejahtera",
+        "sektor": "Manufaktur "
+    },
+    {
+        "no": "43",
+        "nama_perusahaan": "PT Satya Liprindo",
+        "sektor": "Manufaktur "
+    },
+    {
+        "no": "44",
+        "nama_perusahaan": "PT Citro Agung Busana ",
+        "sektor": "Manufaktur "
+    },
+    {
+        "no": "45",
+        "nama_perusahaan": "PT Percetakan Bali",
+        "sektor": "Lembaga swadaya Masyarakat "
+    },
+    {
+        "no": "46",
+        "nama_perusahaan": "Trade Union Right Center ",
+        "sektor": "Lembaga swadaya Masyarakat "
+    },
+    {
+        "no": "47",
+        "nama_perusahaan": "Yayasan Pendidikan dan Kesejahteraan PT PLN (persero)",
+        "sektor": "Lembaga Orientasi Non Profit"
+    },
+    {
+        "no": "48",
+        "nama_perusahaan": "Yayasan Okoce Sosial Kemanusiaan",
+        "sektor": "Lembaga Orientasi Non Profit"
+    },
+    {
+        "no": "49",
+        "nama_perusahaan": "Yayasan Tabungan Hari Tua Pupuk Iskandar Muda",
+        "sektor": "Lembaga Orientasi Non Profit"
+    },
+    {
+        "no": "50",
+        "nama_perusahaan": "Yayasan Pendidikan lskandar Thani",
+        "sektor": "Lembaga Orientasi Non Profit"
+    },
+    {
+        "no": "51",
+        "nama_perusahaan": "Yayasan Langkah Maju Peduli",
+        "sektor": "Lembaga Orientasi Non Profit"
+    },
+    {
+        "no": "52",
+        "nama_perusahaan": "P3SRS - Apartemen Salemba Resident",
+        "sektor": "Lembaga Orientasi Non Profit"
+    },
+    {
+        "no": "53",
+        "nama_perusahaan": "Yayasan Ganesha Delapan Tiga",
+        "sektor": "Lembaga Orientasi Non Profit"
+    },
+    {
+        "no": "54",
+        "nama_perusahaan": "Yayasan Assyifa Aceh",
+        "sektor": "Lembaga Orientasi Non Profit"
+    },
+    {
+        "no": "55",
+        "nama_perusahaan": "Koperasi Karyawan Hotel Grand Hyatt Jakarta",
+        "sektor": "Lembaga Orientasi Non Profit"
+    },
+    {
+        "no": "56",
+        "nama_perusahaan": "Badan Riset lnovasi Nasional (BRIN) ",
+        "sektor": "Lembaga Orientasi Non Profit"
+    },
+    {
+        "no": "57",
+        "nama_perusahaan": "PT Penascop Maritim Indonesia",
+        "sektor": "Pelayaran Dan Pengangkutan "
+    },
+    {
+        "no": "58",
+        "nama_perusahaan": "PT Amas lscindo Utama",
+        "sektor": "Pelayaran Dan Pengangkutan "
+    },
+    {
+        "no": "59",
+        "nama_perusahaan": "PT Tata Harmoni Saranatama ",
+        "sektor": "Pelayaran Dan Pengangkutan "
+    },
+    {
+        "no": "60",
+        "nama_perusahaan": "PT Usaha Jaya Prima Karya",
+        "sektor": "Kontruksi dan Property "
+    },
+    {
+        "no": "61",
+        "nama_perusahaan": "PT Handal Utama Buana",
+        "sektor": "Kontruksi dan Property "
+    },
+    {
+        "no": "62",
+        "nama_perusahaan": "PT Karya Abadi lnsantama",
+        "sektor": "Kontruksi dan Property "
+    },
+    {
+        "no": "63",
+        "nama_perusahaan": "PT Prahasta Citatama",
+        "sektor": "Kontruksi dan Property "
+    },
+    {
+        "no": "64",
+        "nama_perusahaan": "PT Unggul Ejawantah lndustri",
+        "sektor": "Kontruksi dan Property "
+    },
+    {
+        "no": "65",
+        "nama_perusahaan": "PT Niaga Sejahtera Bersama",
+        "sektor": "Kontruksi dan Property "
+    },
+    {
+        "no": "66",
+        "nama_perusahaan": "PT Kinaya Multi Konstruksi",
+        "sektor": "Kontruksi dan Property "
+    },
+    {
+        "no": "67",
+        "nama_perusahaan": "PT Patriot Nusantara Aceh",
+        "sektor": "Kontruksi dan Property "
+    },
+    {
+        "no": "68",
+        "nama_perusahaan": "PT Jaya Bersama & Sons",
+        "sektor": "Kontruksi dan Property "
+    },
+    {
+        "no": "69",
+        "nama_perusahaan": "PT Raya Cipta Mulia",
+        "sektor": "Kontruksi dan Property "
+    },
+    {
+        "no": "70",
+        "nama_perusahaan": "PT Borneo Konstruksi Nusantara",
+        "sektor": "Kontruksi dan Property"
+    }
+]
